@@ -1,0 +1,6 @@
+{
+    "editor.formatOnSave": true,
+    "editor.cursorSmoothCaretAnimation": "on",
+    "[python]": {},
+    "python.formatting.provider": "none"
+}
